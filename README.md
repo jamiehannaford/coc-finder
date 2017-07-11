@@ -5,10 +5,15 @@ Code of Conduct.
 
 ## How to use
 
-First, download the package and build it:
+First, download the package:
 
 ```bash
 go get github.com/jamiehannaford/coc-finder
+```
+
+Then build it:
+
+```bash
 go build
 ```
 
